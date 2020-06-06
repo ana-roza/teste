@@ -1,1 +1,0 @@
-ṕrint("Olá Ana")
